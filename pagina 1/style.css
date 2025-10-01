@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
-    outline: 1px solid red;
+    flex-direction: column;
 }
 :root{
 
@@ -27,8 +27,8 @@
     
 }
 .box-img{
-    padding-bottom: 0;
-    margin: 0;
+    align-items: center;
+    
 }
 .imglogo-nav{
     width: 40px;
@@ -123,31 +123,32 @@ font-size: 30px;
 }
 /* MEUS PROJETOS */
 .my-projects{
-    padding: 20px;  
+    display: flex;
+    padding: 20px;
+    align-items: center;
 }
 .box-project {
-/* display: flex;
+display: flex;
 flex-direction: column;
-    gap: 20px; */
+    gap: 20px;
 }
 
-.article-project{
-
-}
 .h2-projetos{
     font-size: 28px;
     color: #111827;
 }
-.img-project{
+.img-projeto{
     width: 100px;
+    padding-top: 6px;
+    
     
 }
-.link-project{
-    text-decoration: none;
-}
-.link-project{
+
+.link-projeto{
     color: #6B7280;
     background-color: #00BFFF;
     font-size: 10px;
     padding: 10px;
+    text-decoration: none;
+    
 }

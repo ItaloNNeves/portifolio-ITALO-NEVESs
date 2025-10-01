@@ -1,0 +1,30 @@
+  <section class="my-projects">
+            <h2 class="h2-projetos">Meus projetos</h2>
+            <div class="box-project">
+                
+                
+                    <div class="box-img"><img class="img-project" src="/pagina 1/imagenscontent/8289533-widescreen-16x9-smpte-hdtv-color-bar-for-video-e-television-broadcast-signals-vector-background-gratis-vetor.jpg"
+                    alt="" class="projetos">
+                    <div class="box-btn"><a class="link-project" href="#">Ver projeto</a></div>
+               
+                
+                
+                    <div class="box-img"><img class="img-project" src="/pagina 1/imagenscontent/8289533-widescreen-16x9-smpte-hdtv-color-bar-for-video-e-television-broadcast-signals-vector-background-gratis-vetor.jpg"
+                    alt="" class="projetos"></div>
+                    <div class="box-btn"><a class="link-project" href="#">Ver projeto</a></div>
+                
+                
+                
+                    <div class="box-img"><img class="img-project" src="/pagina 1/imagenscontent/8289533-widescreen-16x9-smpte-hdtv-color-bar-for-video-e-television-broadcast-signals-vector-background-gratis-vetor.jpg"
+                    alt="" class="projetos"></div>
+                    <div class="box-btn"><a class="link-project" href="#">Ver projeto</a></div>
+                
+                
+                
+                
+                    <div class="box-img"><img class="img-project" src="/pagina 1/imagenscontent/8289533-widescreen-16x9-smpte-hdtv-color-bar-for-video-e-television-broadcast-signals-vector-background-gratis-vetor.jpg"
+                    alt="" class="projetos"></div>
+                    <div class="box-btn"><a class="link-project" href="#">Ver projeto</a></div>
+                
+            </div>
+        </section>
