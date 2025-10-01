@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    outline: 1px solid red;
+}
+:root{
+
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+    /* padding: 10px; */
+    max-width: 1100px;
+}
+/* CABEÇALHO */
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    align-items: center;
+   border-bottom: 1px solid #c4cbda;
+      background-color: #f4f6fa;
+      overflow: hidden;
+    /* border-radius: 5px; */
+    
+}
+.box-img{
+    padding-bottom: 0;
+    margin: 0;
+}
+.imglogo-nav{
+    width: 40px;
+    margin-left: 30px;
+}
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+    font-weight: 600;
+}
+.a-nav{
+    text-decoration: none;
+    color: #6B7280;
+    font-size: 15px;
+    transition: transform .3s ease;
+}
+.a-nav:hover{
+color: #1E3A8A;
+transform: scale(1.2);
+}
+/* .row{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    column-gap: 20px;
+} */
+/* QUEM EU SOU */
+.hero-banner{
+    padding: 20px;
+   /* background-color: #f4f6fa; */
+   /* border-radius: 5px; */
+}
+.hero-image{
+    width: 200px;
+}
+.hero-container h1 {
+font-size: 24px;
+font-weight: 100;
+color: #111827;
+letter-spacing: 10px;
+}
+.hero-p1{
+    text-align: left;
+     color: #6B7280;
+}
+.hero-p2{
+    text-align: right;
+     color: #6B7280;
+}
+.info-sociais11{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    /* padding: 50px; */
+    
+}
+.info-sociais11 p{
+    display: none;
+}
+.redes-sociais{
+    display: flex;
+    list-style: none;
+    margin: 0 auto;
+    font-size: 30px;
+}
+.redes-sociais a{
+    color: #00BFFF;
+font-size: 20px;
+}
+/* MINHAS EXPERIENCIAS */
+.experiences{
+    display: flex;
+    flex-direction: column;
+background-color: #f4f6fa;
+padding: 20px;
+}
+.h2-experiences{
+    color: #111827;
+    font-size: 28px;
+}
+.experiences-icons ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 30px;
+}
+.experiences-icons ul li{
+    color: #6B7280;
+font-size: 30px;
+}
+/* MEUS PROJETOS */
+.my-projects{
+    padding: 20px;  
+}
+.box-project {
+/* display: flex;
+flex-direction: column;
+    gap: 20px; */
+}
+
+.article-project{
+
+}
+.h2-projetos{
+    font-size: 28px;
+    color: #111827;
+}
+.img-project{
+    width: 100px;
+    
+}
+.link-project{
+    text-decoration: none;
+}
+.link-project{
+    color: #6B7280;
+    background-color: #00BFFF;
+    font-size: 10px;
+    padding: 10px;
+}
